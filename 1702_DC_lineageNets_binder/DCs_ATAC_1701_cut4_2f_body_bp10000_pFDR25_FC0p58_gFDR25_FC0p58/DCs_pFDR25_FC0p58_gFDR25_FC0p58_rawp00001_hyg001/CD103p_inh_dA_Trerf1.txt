@@ -1,0 +1,3 @@
+	CD103p_upOnly_uniGenes_FDR25_FC0p58_CD11bmCD103p_downOnly
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	1.61477734517e-08	1.61477734517e-08,1.61477734517e-08	1	28	AI413582, Abhd12, Acoxl, Adora3, Crk, Etv5, Fam129a, Fat4, Faxc, Klhl25, Lgmn, Med15, Msn, Myo1c, Nhlrc3, Nme3, Pias1, Plekha6, Prkag2, Rad51c, Rassf4, S100a9, Snx29, Srpx2, Tex14, Tmem53, Xrcc5, Zkscan5	26	

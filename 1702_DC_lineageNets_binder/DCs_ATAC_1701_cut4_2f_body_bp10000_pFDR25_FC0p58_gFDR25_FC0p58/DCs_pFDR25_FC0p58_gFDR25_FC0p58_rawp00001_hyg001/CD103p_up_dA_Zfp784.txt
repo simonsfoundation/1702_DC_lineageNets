@@ -1,0 +1,3 @@
+	CD103p_upOnly_uniGenes_FDR25_FC0p58_CD11bmCD103p_upOnly
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	3.71428928725e-07	3.71428928725e-07,3.71428928725e-07,0.520419130827	1	37	0610009L18Rik, 2810417H13Rik, 4933439K11Rik, Actg1, Anapc11, Arid3b, Arpc5l, Avpi1, Bc1, Ccdc12, Cep104, Cep128, Cep290, Ctnnbip1, Fam102b, Fscn2, Hepacam2, Hsdl2, Impg1, Inadl, Kiss1r, Mir6935, Msrb3, Nck2, Olfml1, Pcyt2, Pi4k2a, Ppfibp2, Psmb9, Sfmbt1, Sirt5, Tap1, Tmem110, Tmem229b, Tmtc3, Xcr1, Zfp810	27	

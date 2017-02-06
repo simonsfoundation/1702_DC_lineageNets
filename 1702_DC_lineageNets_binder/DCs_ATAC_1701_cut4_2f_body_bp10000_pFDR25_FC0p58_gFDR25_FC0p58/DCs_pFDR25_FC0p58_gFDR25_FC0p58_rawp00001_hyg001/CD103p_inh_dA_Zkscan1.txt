@@ -1,0 +1,3 @@
+	CD103p_upOnly_uniGenes_FDR25_FC0p58_CD11bmCD103p_downOnly
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	7.52226348655e-07	7.52226348655e-07,7.52226348655e-07	1	19	3110082I17Rik, 4933433H22Rik, Aida, Atp2b1, Bcr, Cdk9, Dleu2, Fam129a, Fnip1, Fry, Fyb, Gatsl2, Nr2c1, Pde8b, Prkce, Rassf4, Reep3, Sytl3, Wdr41	19	

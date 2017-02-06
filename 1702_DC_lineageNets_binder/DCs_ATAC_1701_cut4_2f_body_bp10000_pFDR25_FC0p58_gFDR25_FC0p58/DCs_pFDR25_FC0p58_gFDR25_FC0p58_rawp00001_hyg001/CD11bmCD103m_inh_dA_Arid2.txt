@@ -1,0 +1,3 @@
+	CD11bmCD103m_upOnly_uniGenes_FDR25_FC0p58_CD11bmCD103m_downOnly
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.0	0.0,0.0	1	45	Adam15, Adipor2, BC030336, Bc1, Bcr, Camsap2, Cdc42bpb, Cmip, Cpeb2, Dtnb, E130215H24Rik, Foxp3, Gimap4, Gimap6, Gng2, Grb10, Hs2st1, Jdp2, Klhl2, Lsm11, Mcl1, Mex3d, Mir3109, Mkl2, Mtmr6, Nadk, Obfc1, Pde3b, Pnma1, Ppp1r3fos, Prex1, Rusc2, Sgk1, Shc1, Spef1, Stam2, Stxbp1, Tiam2, Tmcc3, Tpd52, Trio, Ttc39b, Ubc, Usp53, Zfp398	42	

@@ -1,0 +1,3 @@
+	CD11bmCD103m_upOnly_uniGenes_FDR25_FC0p58_CD11bmCD103m_downOnly
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.0	0.0,0.0	1	25	Akt1s1, Bc1, Cd44, Cln3, Fam102a, Foxn3, Gtf2ird2, Hspb7, Igfbp7, Itgb8, Kif13b, Laptm5, Lrch1, Mir146, Nr4a1, Oas3, Pkd2, Ptprn2, Rilpl1, Slc38a9, Tcp11l1, Ubl3, Vps13d, Wdr7, Zswim4	25	

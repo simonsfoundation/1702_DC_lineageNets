@@ -1,0 +1,3 @@
+	CD103p_upOnly_uniGenes_FDR25_FC0p58_CD11bmCD103p_downOnly
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	5.16744644674e-06	5.16744644674e-06,5.16744644674e-06,0.829249247509	1	40	1500015A07Rik, 2700049A03Rik, Afap1l1, Akap13, Akna, Ank2, Bcas1, Bcl7a, Bmp6, Btbd16, Cask, Cdyl, Cenpl, Cep70, Clcn7, Dars2, Dleu2, Dnal1, Elmsan1, Fyb, Gda, Gem, Gm20139, Gnaq, Grpel2, Lyn, Macf1, Pald1, Pnma1, Pot1b, Pvr, Rbms2, Rin3, Sgpl1, Slc8a1, Sptbn4, Tacc2, Tnfsf9, Trem3, Tubb4a	34	

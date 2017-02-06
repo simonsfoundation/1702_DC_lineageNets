@@ -1,0 +1,3 @@
+	CD11bmCD103m_upOnly_uniGenes_FDR25_FC0p58_CD11bmCD103m_downOnly
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.0	0.0	1	43	1700066B17Rik, Adtrp, Arhgap15, Btnl2, Ccl17, Cd40, Cd86, Chm, Clec1b, Cmah, Cpq, Evl, F730043M19Rik, Fam63b, Gbgt1, Glce, Glycam1, Ier5, Irg1, Mgam, Mgll, Mir17hg, Mmp2, Ndel1, Neurl3, Nfkb1, Picalm, Poc1b, Pyhin1, Rcsd1, Rere, Slc4a4, Ssbp2, Sstr4, Tec, Tmem150a, Ulk2, Vav3, Wdfy3, Wdr70, Xpr1, Xrn1, Zfp418	45	

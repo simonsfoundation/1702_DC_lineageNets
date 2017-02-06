@@ -1,0 +1,3 @@
+	CD11bmCD103m_upOnly_uniGenes_FDR25_FC0p58_CD11bmCD103m_upOnly
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	4.57438796841e-08	4.57438796841e-08,4.57438796841e-08	1	77	4930513N10Rik, 5031414D18Rik, Add1, Agbl5, Akap13, Ank2, Apof, Apon, Arsb, Avil, B4galnt4, Bbs12, Bbs9, Btnl1, Card10, Casr, Ccdc64, Ccnd1, Cdk6, Cdyl, Cetn4, Chst10, Ctu1, Dnm3, Exosc8, Ezh2, Fam110a, Fam162a, Fam217b, Fbrsl1, Fgd1, Fuz, Fyn, Gcnt2, Gpr157, Gramd4, Gse1, Gstt2, Havcr2, Itgax, Itgb3, Jak2, Kpna1, L3mbtl3, Ldha, Limk1, Lyz1, Med25, Mrvi1, Msrb3, Mtfr1, Neat1, Nmnat1, Nos1ap, Nsmaf, Pfpl, Plekha1, Plscr1, Plscr2, Ppp1r3d, Psmb3, Rassf6, Rhoq, Rmi2, Sdk1, Sntb1, Spa17, Supt20, Sycp2, Tbc1d4, Tet1, Tmem170, Traf3ip3, Tspyl5, Txnl4b, Wdr5b, Zkscan7	71	

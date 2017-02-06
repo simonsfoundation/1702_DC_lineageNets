@@ -1,0 +1,3 @@
+	CD11bmCD103m_upOnly_uniGenes_FDR25_FC0p58_CD11bmCD103m_downOnly
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	2.23036219049e-07	2.23036219049e-07,2.23036219049e-07,0.833994574685,0.833994574685	1	32	A230108P19Rik, Actr3, Amer1, Arhgap31, Arnt, Atf6, Atg7, Atp6v1h, Cpq, Fam71a, Hck, Hfe, Hs2st1, Irf2, Ist1, Kcnq1, Mef2c, Mlxip, Mmp2, Napa, Prdm2, Sh3bgrl2, Slc8a1, Slc9a3r1, Stam2, Tanc2, Tgfbr2, Tm6sf1, Tpd52, Trim62, Ube2h, Zfat	33	

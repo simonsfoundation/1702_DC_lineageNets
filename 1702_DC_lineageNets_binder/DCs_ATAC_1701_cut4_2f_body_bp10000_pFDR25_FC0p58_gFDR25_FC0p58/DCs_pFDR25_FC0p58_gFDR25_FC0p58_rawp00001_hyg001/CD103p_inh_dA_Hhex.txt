@@ -1,0 +1,3 @@
+	CD103p_upOnly_uniGenes_FDR25_FC0p58_CD11bmCD103p_downOnly
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	1.95023184379e-07	1.95023184379e-07,1.95023184379e-07	1	31	Akap13, Alpk2, Apbb1ip, C130046K22Rik, C2cd5, Ccdc62, Cry1, Dpysl3, Elmo2, Etv1, Fbn2, Fbxo28, Foxn2, Gramd1b, Inpp5a, Irak3, Lrp6, Mex3d, Mgat4a, Mterf1b, Nedd9, Pde4b, Pla2g4a, Plxnb2, Ppargc1a, Slc8a1, Tgfbr2, Tom1, Wdfy3, Wipf1, Zfp456	31	

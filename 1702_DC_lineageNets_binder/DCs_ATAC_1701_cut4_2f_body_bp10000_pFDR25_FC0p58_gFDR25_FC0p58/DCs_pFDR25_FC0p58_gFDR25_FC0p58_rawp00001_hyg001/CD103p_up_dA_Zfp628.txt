@@ -1,0 +1,3 @@
+	CD103p_upOnly_uniGenes_FDR25_FC0p58_CD11bmCD103p_upOnly
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.000496476071764	0.000496476071764,0.000496476071764	1	32	Ap3m1, Arf2, Arpp21, Bloc1s2, Camk1d, Caml, Capn7, Cdc14a, Cnep1r1, Cwf19l1, Cxcl9, Exoc3l4, Fam171a2, Gm19510, Grn, Ldha, Mars, Mir466d, Pcbp3, Plbd1, Prkar2a, Rab10, Rad54b, Rbpj, Rragb, Sdad1, Sept5, Slc25a20, Srpk2, Tbc1d22b, Vcl, Vwf	26	

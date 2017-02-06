@@ -1,0 +1,3 @@
+	CD11bmCD103m_upOnly_uniGenes_FDR25_FC0p58_CD11bmCD103m_downOnly
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.000414848902992	0.000414848902992,0.000414848902992,0.999685777608	1	30	A930006K02Rik, Aff1, Atp6v0a1, Auh, Blvra, Btnl2, Cald1, Ccdc117, Ccdc82, Cntd1, Coprs, Dip2b, Dleu2, Dnmbp, Esyt2, Frem1, Gpr132, Kif13b, Mcur1, Mir29a, Mir29b-1, Mpp5, Nipbl, Npm2, Parp10, Ptpn22, Rcsd1, Rhog, Trpm2, Wdr7	29	

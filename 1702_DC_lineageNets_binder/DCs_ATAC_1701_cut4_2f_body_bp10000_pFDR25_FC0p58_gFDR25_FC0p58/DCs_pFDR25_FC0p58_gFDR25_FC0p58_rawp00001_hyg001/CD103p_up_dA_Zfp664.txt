@@ -1,0 +1,3 @@
+	CD103p_upOnly_uniGenes_FDR25_FC0p58_CD11bmCD103p_upOnly
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	7.38190156757e-06	7.38190156757e-06,7.38190156757e-06	1	13	Bc1, Dact3, Epsti1, Ercc6l, Gamt, Gpr65, Klrk1, Naa25, Nhp2, Ppm1j, Prnp, Senp6, Trappc9	12	

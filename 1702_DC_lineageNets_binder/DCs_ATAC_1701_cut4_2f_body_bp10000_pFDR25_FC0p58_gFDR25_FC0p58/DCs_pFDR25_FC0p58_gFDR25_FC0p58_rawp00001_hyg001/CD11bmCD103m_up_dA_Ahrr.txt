@@ -1,0 +1,3 @@
+	CD11bmCD103m_upOnly_uniGenes_FDR25_FC0p58_CD11bmCD103m_upOnly
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	9.74673834642e-07	9.74673834642e-07,9.74673834642e-07	1	34	9030617O03Rik, Acot7, Acsl1, Aff3, Atp4a, Cdkl4, Cdon, Crtc3, Fam131a, Fuz, Gabpb1, Gm15708, Gramd4, Hgfac, Hic1, Ift52, Klf5, Med25, Med29, Mir132, Mir212, Mkl1, Mrps18c, Mybl2, Nmrk2, Ovca2, Paf1, Peak1, Rgs12, Smarca2, Stat5b, Suclg1, Tmem147, Ttc30b	27	

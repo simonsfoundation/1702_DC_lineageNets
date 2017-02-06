@@ -1,0 +1,3 @@
+	CD11bmCD103m_upOnly_uniGenes_FDR25_FC0p58_CD11bmCD103m_downOnly
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	1.44684249683e-05	1.44684249683e-05	1	24	1700120G07Rik, A930006K02Rik, Ap2a2, Bank1, Erich2, Fap, Gm14403, Gpr132, Il1rl1, Mgat4b, Msra, Oas3, Pcbp3, Pde1a, Plekho1, Prex1, Sh3glb1, Skil, Snx5, Sp140, Specc1l, Tspan32, Ttc39b, Vamp5	25	

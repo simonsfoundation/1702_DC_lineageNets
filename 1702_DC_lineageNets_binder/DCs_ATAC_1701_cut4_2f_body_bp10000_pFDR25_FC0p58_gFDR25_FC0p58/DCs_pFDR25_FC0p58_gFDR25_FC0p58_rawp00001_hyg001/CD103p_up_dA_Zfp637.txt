@@ -1,0 +1,3 @@
+	CD103p_upOnly_uniGenes_FDR25_FC0p58_CD11bmCD103p_upOnly
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	7.97501453431e-07	7.97501453431e-07,7.97501453431e-07	1	38	Adamts6, Barx2, Bfsp2, Cblb, Ccdc167, Cmtr1, Creg1, Dusp10, Eml5, Fam131a, Fmo5, Gm6377, H2-Ob, H2afy, Hist1h1d, Hist1h2bh, Hist1h3f, Hist1h4f, Ildr1, Mrpl4, Ndufab1, Notch4, Nrip1, Plcb4, Plce1, Ppfibp2, Ptprn2, Rab10, Rnase6, Rnf157, Snx13, Snx2, Stt3a, T2, Tceb1, Trio, Ubfd1, Usp47	33	

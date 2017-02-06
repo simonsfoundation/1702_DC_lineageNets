@@ -1,0 +1,3 @@
+Klf10_Klf11	Klf10, Klf11
+Scx_Tcf15	Scx, Tcf15
+Zfp110_Zfp369	Zfp110, Zfp369

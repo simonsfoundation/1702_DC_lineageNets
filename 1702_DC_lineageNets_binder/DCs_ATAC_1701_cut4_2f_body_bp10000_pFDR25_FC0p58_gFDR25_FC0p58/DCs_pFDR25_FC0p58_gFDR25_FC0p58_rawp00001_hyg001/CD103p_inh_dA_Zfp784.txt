@@ -1,0 +1,3 @@
+	CD103p_upOnly_uniGenes_FDR25_FC0p58_CD11bmCD103p_downOnly
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.000411152909593	0.000411152909593,0.000411152909593,0.732790442951	1	22	2010111I01Rik, 4833411C07Rik, Atp6v0a1, Ctsh, Dao, Dcakd, Fam214a, Fam43a, Hmga2-ps1, Nasp, Nfkbiz, Nxpe3, Ptger4, Ptprj, Rwdd2a, Sdccag8, Slc39a10, Ssh1, St3gal4, Syngap1, Tcf4, Zfp827	19	

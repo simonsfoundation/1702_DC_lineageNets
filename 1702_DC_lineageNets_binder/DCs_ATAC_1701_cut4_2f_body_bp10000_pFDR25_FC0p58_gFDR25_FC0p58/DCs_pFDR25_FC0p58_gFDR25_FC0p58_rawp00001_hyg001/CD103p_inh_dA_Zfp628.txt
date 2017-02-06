@@ -1,0 +1,3 @@
+	CD103p_upOnly_uniGenes_FDR25_FC0p58_CD11bmCD103p_downOnly
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	2.57920406033e-07	2.57920406033e-07,2.57920406033e-07	1	29	1600010M07Rik, Abcc4, Arhgap26, Arhgap9, C2cd2, Fam129a, Fkbp5, Focad, Gli1, Gm16287, Grb2, Has1, Ifitm3, Ifitm6, Iqck, Ldhc, Mgat4a, Mir6907, Phactr1, Rapgef4, Rb1, Rptor, Sgpl1, Sh3bp5, Slc1a2, Slc38a11, Spn, Tnfaip2, Tnrc6c	27	

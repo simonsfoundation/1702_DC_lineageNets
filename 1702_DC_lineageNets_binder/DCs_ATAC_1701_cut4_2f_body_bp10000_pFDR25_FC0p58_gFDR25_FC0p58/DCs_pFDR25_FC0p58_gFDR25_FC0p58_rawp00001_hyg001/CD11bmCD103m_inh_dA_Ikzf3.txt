@@ -1,0 +1,3 @@
+	CD11bmCD103m_upOnly_uniGenes_FDR25_FC0p58_CD11bmCD103m_downOnly
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.0	0.0,0.0,0.717198892096	1	56	Actr3, Amdhd2, Arap1, Arhgap26, Arid4a, Auh, BC026585, Bc1, Birc3, Bmp6, Ccdc82, Cd274, Cep85l, Chd5, Cmah, Cpq, Crtc2, Ctif, D5Ertd579e, Dleu2, Dpp7, Dusp12, Fasl, Foxn3, Gm19434, Gpc6, Hist4h4, Ier2, Itch, Itpr2, Jmjd1c, Kctd21, Mapkapk2, Mir1931, Mtmr6, Myom1, Ppfibp2, Prr13, Ptprh, Rbp7, Reep3, Sh2d4b, Sh3bgrl2, Shc1, Siae, Slc39a1, Sntb2, Snx29, Stk10, Tiam2, Trio, Tsga10, Txndc16, Uap1l1, Usp53, Znfx1	56	

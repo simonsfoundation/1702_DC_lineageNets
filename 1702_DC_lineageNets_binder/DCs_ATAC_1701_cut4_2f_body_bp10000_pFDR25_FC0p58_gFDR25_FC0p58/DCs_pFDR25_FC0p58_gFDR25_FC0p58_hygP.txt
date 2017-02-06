@@ -1,0 +1,19 @@
+Significance of peak overlap between gene expression and accessibility clusters
+
+	Raw p-values from the hypergeometric distribution are reported.
+
+		uniGenes_FDR25_FC0p58_CD11bmCD103m_downOnly	uniGenes_FDR25_FC0p58_CD11bmCD103m_upOnly	uniGenes_FDR25_FC0p58_CD11bmCD103p_downOnly	uniGenes_FDR25_FC0p58_CD11bmCD103p_upOnly	uniGenes_FDR25_FC0p58_CD11bpCD103m_downOnly	uniGenes_FDR25_FC0p58_CD11bpCD103m_upOnly	uniGenes_FDR25_FC0p58_CD11bpCD103p_downOnly	uniGenes_FDR25_FC0p58_CD11bpCD103p_upOnly	uniGenes_FDR25_FC0p58_Macrophage_downOnly	uniGenes_FDR25_FC0p58_Macrophage_upOnly	uniGenes_FDR25_FC0p58_Monocyte_downOnly	uniGenes_FDR25_FC0p58_Monocyte_upOnly
+		NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+		NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+CD103p_downOnly	NA	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+CD103p_upOnly	NA	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+CD11bmCD103m_downOnly	NA	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+CD11bmCD103m_upOnly	NA	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+CD11bpCD103p_downOnly	NA	0.0	0.0	0.0	0.0	6.96531721189e-12	0.0	0.0	0.0	0.0	0.0	0.0	2.15671924764e-12
+CD11bpCD103p_upOnly	NA	0.0	0.0	0.0	0.0	4.07626155052e-11	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+CD11bp_downOnly	NA	0.0	0.0	0.0	0.0	4.75165462532e-11	0.0	0.0	0.0	0.0	2.3803181648e-13	0.0	2.5982438423e-11
+CD11bp_upOnly	NA	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Macrophages_downOnly	NA	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Macrophages_upOnly	NA	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Monocytes_downOnly	NA	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Monocytes_upOnly	NA	0.0	0.0	0.0	0.0	6.99051927455e-12	0.0	0.0	0.0	0.0	0.0	0.0	1.59550150869e-12

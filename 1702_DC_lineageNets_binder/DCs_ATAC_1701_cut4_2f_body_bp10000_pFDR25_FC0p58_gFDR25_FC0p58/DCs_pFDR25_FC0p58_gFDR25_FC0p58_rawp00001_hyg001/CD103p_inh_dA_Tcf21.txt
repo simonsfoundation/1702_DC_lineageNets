@@ -1,0 +1,3 @@
+	CD103p_upOnly_uniGenes_FDR25_FC0p58_CD11bmCD103p_downOnly
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	2.67828603739e-09	2.67828603739e-09,2.67828603739e-09,0.894867708865,0.894867708865	1	30	Abr, Colgalt2, Dock10, Gapt, Gm15441, Gxylt2, Hs2st1, Kcnq1, Lpcat2, Lpp, Mdfic, Mef2c, Mmp2, Myo10, Nrxn2, Nxn, Prdm2, Rfx8, Rgl1, Sh3bgrl2, Slc38a1, St6galnac3, Tgfbr2, Trim62, Txnip, Ube2h, Wipf1, Wipi1, Zbp1, Zfp456	27	

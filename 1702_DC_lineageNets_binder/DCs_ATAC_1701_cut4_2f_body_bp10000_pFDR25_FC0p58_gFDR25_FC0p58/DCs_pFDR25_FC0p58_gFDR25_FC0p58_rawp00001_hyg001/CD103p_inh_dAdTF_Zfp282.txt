@@ -1,0 +1,3 @@
+	CD103p_upOnly_uniGenes_FDR25_FC0p58_CD11bmCD103p_downOnly
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	6.00923496152e-06	6.00923496152e-06,6.00923496152e-06,0.799880051599	1	36	A230056P14Rik, Abcc4, Ankrd44, BC049352, Cass4, Ccdc30, Ccdc63, Dennd4a, Dnah17, Dnajc27, Dock10, Filip1l, Flt3l, Gimap1, Gimap5, Gstt4, Kdm3a, Mxd1, Nedd4l, Nfatc1, Nmrk1, Numa1, Ocel1, Prkce, Prlr, S100a10, Slc13a3, Slc24a1, Snord35b, Sp100, Spag1, Ssh1, Tenm4, Tmprss4, Tob2, Ubl3	33	

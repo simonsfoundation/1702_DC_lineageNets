@@ -1,0 +1,3 @@
+	CD103p_upOnly_uniGenes_FDR25_FC0p58_CD11bmCD103p_upOnly
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.000611475525566	0.000611475525566,0.000611475525566	1	31	Adam8, Alms1, Ano10, Arhgdia, Ccdc74a, Eme2, Ffar4, Fgd6, Fmnl2, Gm19461, Gprc5a, Habp4, Hadhb, Itpr1, Kat6b, Lrrc28, Mrps34, Msrb3, Nubp2, P4hb, Scaper, Sec11c, Slc12a9, Sod1, Spsb3, Synpo, Tjp3, Tubgcp2, Vwf, Xcr1, Zfp367	25	

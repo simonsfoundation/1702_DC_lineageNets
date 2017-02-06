@@ -1,0 +1,3 @@
+	CD103p_upOnly_uniGenes_FDR25_FC0p58_CD11bmCD103p_upOnly
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.000121616966607	0.000121616966607,0.000121616966607	1	21	4930546C10Rik, Anxa7, C1qbp, Chst11, Dhx33, H2-Aa, H2-Eb1, Hirip3, Icam4, Ino80e, Irf8, Met, Notch4, Nup85, Ppp1r15b, Pptc7, Rcbtb1, Rpl14, Sh2b3, Ttc21b, Zfp282	18	

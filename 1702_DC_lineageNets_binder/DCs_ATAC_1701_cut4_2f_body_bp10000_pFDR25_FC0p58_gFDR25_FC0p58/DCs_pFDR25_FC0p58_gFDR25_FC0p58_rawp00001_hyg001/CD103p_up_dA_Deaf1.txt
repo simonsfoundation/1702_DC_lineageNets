@@ -1,0 +1,3 @@
+	CD103p_upOnly_uniGenes_FDR25_FC0p58_CD11bmCD103p_upOnly
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.0	0.0,0.0	1	47	2700046G09Rik, Ap1m1, Arhgap22, C130026I21Rik, Caprin2, Cbx2, Cntrl, Coro1a, Crtap, Cs, Dars, Dnm1, Dusp16, Efcab11, Exosc2, Gyg, Hddc3, Kif18a, Lnx2, Mamstr, Mbp, Mettl15, Ncbp1, Nckipsd, Nelfa, Nr4a2, Nsmce4a, Pkn3, Plbd1, Polr1d, Prrc1, Psmf1, Ptprs, Rasip1, Set, Sgms1, Slc22a23, Srebf2, Surf4, Tmem216, Tpgs1, Trib1, Tuba1a, Wbscr16, Zbtb42, Zfp28, Zswim3	42	

@@ -1,0 +1,3 @@
+	CD103p_upOnly_uniGenes_FDR25_FC0p58_CD11bmCD103p_upOnly
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	8.1072319346e-05	8.1072319346e-05,8.1072319346e-05	1	18	A630066F11Rik, Atp4a, Basp1, Csad, Gramd1c, Itgb7, Men1, Nr2c2ap, Nup43, Pcmt1, Rfc1, Snord4a, Strbp, Tapbpl, Tlcd1, Tmsb15b1, Vamp1, Zdhhc23	12	

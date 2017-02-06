@@ -1,0 +1,3 @@
+	CD103p_upOnly_uniGenes_FDR25_FC0p58_CD11bmCD103p_downOnly
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	9.2584606648e-11	9.2584606648e-11,9.2584606648e-11	1	33	3110082I17Rik, 4933412E12Rik, Abcc4, Ache, Bach2, Cdc42ep3, Cmbl, Dcps, Dpysl2, Gas2l1, Gata2, Gpr146, Hid1, Mitf, Myh10, Neurl1a, Osbpl8, Phospho1, Pid1, Plk3, Plxna4, Prkcq, Rasl10a, Rhbdf2, Rnf130, Setd1b, Six5, Tirap, Tsc22d4, Ube2h, Wnk1, Xxylt1, Zbp1	30	

@@ -1,0 +1,3 @@
+	CD103p_upOnly_uniGenes_FDR25_FC0p58_CD11bmCD103p_downOnly
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	5.83258332987e-05	5.83258332987e-05,5.83258332987e-05	1	19	1700011E24Rik, 2010204K13Rik, 3110082I17Rik, 5830454E08Rik, Acpt, Akap13, Arap3, D830046C22Rik, Fam49b, Gm14005, Gpr146, Icam1, Kcnq3, Lrfn4, Pde4d, Ranbp6, Sec31b, Tef, Usp36	17	

@@ -1,0 +1,3 @@
+	CD11bmCD103m_upOnly_uniGenes_FDR25_FC0p58_CD11bmCD103m_downOnly
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.0	0.0,0.0	1	49	2900005J15Rik, Akap7, Arhgap26, Arhgap31, Atp1a2, Camk1d, Camk2n1, Ccl17, Cxcl9, Exoc3l4, Ext1, Fam129a, Fkbp5, Focad, Fpr1, Gli1, Gm16287, Grk5, Has1, Herc4, Ip6k1, Kalrn, Kdm7a, Klhl9, Lama3, Ldhc, Lgals2, Lsm11, Map4k4, Mcl1, Mir466d, Nt5c3, Pde1a, Pfkfb3, Phactr1, Plcl2, Ppcdc, Ppm1h, Prkag2, Rb1, Rbpj, Rcbtb2, Rnf150, Runx1, Scamp5, Sgpl1, Spaca6, Ttc28, Uba7	44	

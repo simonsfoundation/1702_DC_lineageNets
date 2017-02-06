@@ -1,0 +1,3 @@
+	CD103p_upOnly_uniGenes_FDR25_FC0p58_CD11bmCD103p_downOnly
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	3.58505071929e-06	3.58505071929e-06,0.590314311838	1	28	Cygb, D17Wsu92e, D8Ertd738e, Dapp1, Fanci, Foxn3, Inpp4a, Irak2, Kif5c, Map2k1, Ormdl3, Pet100, Pirb, Prkch, Prkcq, Prlr, Ranbp3l, Ranbp6, Slc12a8, Snx20, Spaca4, Sphk2, St6galnac3, Stxbp2, Tsen34, Vps37b, Zfand2a, Zfp523	25	

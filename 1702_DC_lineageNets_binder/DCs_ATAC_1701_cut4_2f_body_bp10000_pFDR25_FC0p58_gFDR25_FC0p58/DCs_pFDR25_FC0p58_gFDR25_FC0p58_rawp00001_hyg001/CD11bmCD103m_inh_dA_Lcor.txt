@@ -1,0 +1,3 @@
+	CD11bmCD103m_upOnly_uniGenes_FDR25_FC0p58_CD11bmCD103m_downOnly
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.0	0.0,0.0	1	48	Ak8, Ankrd44, Ap3s1, Atg12, Camk1d, Dusp6, Efemp2, Eif2b2, Evl, Fam114a1, Fam13b, Fam167b, Gcnt1, Hltf, Hmox2, Hnrnph2, Il13ra1, Jmjd1c, Kansl1l, Khnyn, Leprotl1, Lpin2, Lrig1, Lsamp, Mcl1, Mir574, Mtm1, Ncoa2, Numb, Nxt2, Polk, Rassf4, Sdcbp, Serpinb2, Sik3, Slc25a26, Slc38a9, Slc5a5, Snx32, Specc1l, Spred1, Srgn, Tbc1d1, Tbc1d5, Tbpl1, Vwf, Zmym2, Znfx1	44	

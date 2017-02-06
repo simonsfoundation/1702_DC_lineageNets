@@ -1,0 +1,3 @@
+	CD11bmCD103m_upOnly_uniGenes_FDR25_FC0p58_CD11bmCD103m_downOnly
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.0	0.0,0.0,0.28607859054	1	53	1700112H15Rik, 2010109A12Rik, 2010111I01Rik, Adipor2, Adora3, Akna, Ankrd44, Atf3, Atf6, Cask, Ccdc146, Dhrs7b, Dleu2, Enpp3, F630028O10Rik, Fam227b, Fars2, Foxn3, Gbgt1, Gpt2, Hspg2, Igfbp7, Il16, Irf2, Kcnip2, Kcnmb1, Kdm7a, Lnpep, Map4k4, Mir5098, Plcl2, Pnma1, Pot1b, Rars, Rhbdf1, Rin3, Rnf150, Sgpl1, Slc17a8, Slc38a9, Soat1, Stard5, Susd1, Tcf7l2, Tiam1, Tmem154, Tnfsf9, Treml4, Tspan32, Usp38, Wdr70, Wwc1, Zfp707	52	

@@ -1,0 +1,3 @@
+	CD11bmCD103m_upOnly_uniGenes_FDR25_FC0p58_CD11bmCD103m_downOnly
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	2.54206161676e-08	2.54206161676e-08,2.54206161676e-08	1	29	0610040J01Rik, Abhd12, Ankrd44, Atp9b, Cask, D17Wsu92e, Enthd1, Etv3, Fam129a, Fat4, Faxc, Fndc3b, Fxyd5, Hs2st1, Il17c, Itpr2, Lrrc28, Mir7050, Pfkfb4, Ppp1r21, Prkag2, Rassf4, Slc30a7, Snx29, Txndc2, Ube2j2, Vps13d, Vwf, Ythdc2	28	
